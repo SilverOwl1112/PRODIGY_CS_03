@@ -1,2 +1,2 @@
 # PRODIGY_CS_03
-This repository is for my third task as a cyber security intern at Prodigy InfoTech
+This repository is for my third task as a cyber security intern at Prodigy InfoTech: A Password Complexity Checker
